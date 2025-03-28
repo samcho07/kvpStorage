@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/KVPStorage.dir/src/main.cpp.o CMakeFiles/KVPStorage.dir/src/storage.cpp.o CMakeFiles/KVPStorage.dir/src/command_processor.cpp.o -o KVPStorage 

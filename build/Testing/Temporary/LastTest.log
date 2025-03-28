@@ -1,0 +1,21 @@
+Start testing: Mar 20 18:05 CET
+----------------------------------------------------------
+1/1 Testing: test_storage
+1/1 Test: test_storage
+Command: "/home/mert/Desktop/KVP_STORAGE/build/tests/test_storage"
+Directory: /home/mert/Desktop/KVP_STORAGE/build/tests
+"test_storage" start time: Mar 20 18:05 CET
+Output:
+----------------------------------------------------------
+test_set_get passed
+test_delete passed
+test_storage: /home/mert/Desktop/KVP_STORAGE/tests/test_storage.cpp:41: void test_persistence(): Assertion `storage.get("test_key", value)' failed.
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Failed.
+"test_storage" end time: Mar 20 18:05 CET
+"test_storage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 20 18:05 CET

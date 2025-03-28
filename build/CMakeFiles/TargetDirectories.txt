@@ -1,0 +1,8 @@
+/home/mert/Desktop/KVP_STORAGE/build/CMakeFiles/KVPStorage.dir
+/home/mert/Desktop/KVP_STORAGE/build/CMakeFiles/test.dir
+/home/mert/Desktop/KVP_STORAGE/build/CMakeFiles/edit_cache.dir
+/home/mert/Desktop/KVP_STORAGE/build/CMakeFiles/rebuild_cache.dir
+/home/mert/Desktop/KVP_STORAGE/build/tests/CMakeFiles/test_storage.dir
+/home/mert/Desktop/KVP_STORAGE/build/tests/CMakeFiles/test.dir
+/home/mert/Desktop/KVP_STORAGE/build/tests/CMakeFiles/edit_cache.dir
+/home/mert/Desktop/KVP_STORAGE/build/tests/CMakeFiles/rebuild_cache.dir
