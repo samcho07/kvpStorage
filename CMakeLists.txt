@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(KVPStorage 
+project(kvpStorage 
     VERSION 1.0.0
     DESCRIPTION "Key-Value Pair Storage Application"
     LANGUAGES CXX
@@ -42,10 +42,6 @@ target_include_directories(${PROJECT_NAME}
     PRIVATE 
         ${CMAKE_CURRENT_SOURCE_DIR}/src
 )
-
-# Find and link libraries (if needed)
-# Example: find_package(SomeLibrary REQUIRED)
-# target_link_libraries(${PROJECT_NAME} SomeLibrary::SomeLibrary)
 
 # Testing
 enable_testing()
